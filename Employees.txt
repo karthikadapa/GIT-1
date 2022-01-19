@@ -1,0 +1,48 @@
+        "Name": "karthik",
+        "Age": 12,
+        "Sex": "M",
+        "Cell": 910079595,
+        "Adress": "karimnagr"
+    },
+    {
+        "Name": "karthik",
+        "Age": 12,
+        "Sex": "M",
+        "Cell": 910079595,
+        "Adress": "karimnagr"
+    },
+    {
+        "Name": "karthik",
+        "Age": 12,
+        "Sex": "M",
+        "Cell": 9100792954,
+        "Adress": "karimnagr"
+    },
+    {
+        "Name": "karthik",
+        "Age": 12,
+        "Sex": "M",
+        "Cell": 9100792954,
+        "Adress": "karimnagr"
+    },
+    {
+        "Name": "karthik",
+        "Age": 12,
+        "Sex": "M",
+        "Cell": 9100792954,
+        "Adress": "karimnagr"
+    },
+    {
+        "Name": "chachi",
+        "Age": 21,
+        "Sex": "M",
+        "Cell": 7989563296,
+        "Adress": "Hyd"
+    },
+    {
+        "Name": "adapa karthik",
+        "Age": 30,
+        "Sex": "M",
+        "Cell": 7989563296,
+        "Adress": "chk"
+
