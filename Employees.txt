@@ -64,5 +64,7 @@
         cell : N
         Adress : N
         
-        
-        
+        Name : KK
+        Age : >>>
+	sex : //
+	Adress : ,,
